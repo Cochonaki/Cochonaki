@@ -1,7 +1,7 @@
 **Welcome to my GitHub page!**
 
 👋 I’m Ioannis STASINOPOULOS, a.k.a @Cochonaki, Data Scientist with a PhD in physics, R&D and project management experience in the aeronautical sector.
-- 👀 I’m working as a Data Scientist at SAFRAN SA, a major OEM company that manufactures, among many other aircraft components, A320 and B737 engines [Safran](https://www.safran-group.com/)
+- 👀 I’m working as a Data Scientist at [Safran](https://www.safran-group.com/), a major OEM company that manufactures, among many other aircraft components, A320 and B737 engines.
 - Check out my recent capstone project on NLP ['AeroBOT'](https://github.com/DataScientest-Studio/Aerobot): automatic classification of texts with a lot of aeronautical jargon, from NASA's [ASRS database](https://asrs.arc.nasa.gov/search/database.html).
 
 - 📫 Feel free to connect with me on: 
